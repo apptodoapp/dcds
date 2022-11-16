@@ -1,0 +1,8 @@
+{
+  "name": "dcds",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/apptodoapp/dcds",
+    "ssh": "git@github.com:apptodoapp/dcds.git"
+  }
+}
